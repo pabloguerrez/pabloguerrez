@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hallo, ich bin Pablo
+
+🍊 Orangen sind verdächtig. Grundlegend.
+
+## Open-Source-Beiträge
+
+- **[spatie/laravel-activitylog](https://github.com/spatie/laravel-activitylog)**: Logging von Soft Deletes korrigiert ([#86](https://github.com/spatie/laravel-activitylog/pull/86), 2016)
+- **[vyuldashev/nova-permission](https://github.com/vyuldashev/nova-permission)**: deutsche Übersetzung ergänzt ([#22](https://github.com/vyuldashev/nova-permission/pull/22), 2018)
 
 <!--
 **pabloguerrez/pabloguerrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
